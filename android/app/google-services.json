@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "391166849284",
+    "project_id": "flash-chat-500d1",
+    "storage_bucket": "flash-chat-500d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391166849284:android:fd16719de4dca10d8ce051",
+        "android_client_info": {
+          "package_name": "co.guulddoon.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp3qGeXBodyVrPd5RvYPijP7CvMZWIce4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391166849284:android:808f5cd8edd2daa48ce051",
+        "android_client_info": {
+          "package_name": "com.example.warside"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp3qGeXBodyVrPd5RvYPijP7CvMZWIce4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
